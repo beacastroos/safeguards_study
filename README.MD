@@ -1,4 +1,4 @@
-# LLM Guardrails Assessment: Safety & Agentic Workflows
+# LLM Guardrails Assessment
 
 **Based on the code given by Dr. Ricardo Cardoso Pereira at https://ricardodcpereira.com/**
 
